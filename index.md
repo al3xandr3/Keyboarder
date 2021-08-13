@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-You can use the [editor on GitHub](https://github.com/al3xandr3/Keyboarder/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<style>
+  .btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: #fff;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+.btn:hover {
+  background-color: RoyalBlue;
+}
+</style>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+![Keyboarder](https://raw.githubusercontent.com/al3xandr3/timeinPC/master/timeinPC.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Keyboarder 
 
-```markdown
-Syntax highlighted code block
+Gives an extra life to your keyboard and for costumizing it
 
-# Header 1
-## Header 2
-### Header 3
+<button class="btn"><i class="fa fa-download"></i><a href="https://github.com/al3xandr3/timeinPC/releases/download/v1/timeinPC-setup.exe" style="color:white;"><b>  Download Release v1</b></a></button>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Config
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Running it
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/al3xandr3/Keyboarder/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Requires Microsoft Windows
