@@ -43,3 +43,5 @@ Find the configuration file from the system tray keyboarder menu
 ### Running it
 
 Requires Microsoft Windows
+
+I include a shortcut to it in the `C:\%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup` so that it start on every reboot, and is just all the time there, and my key shortcuts are always available.
