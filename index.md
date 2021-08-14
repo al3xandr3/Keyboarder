@@ -38,8 +38,8 @@ It runs as tray application, so that it does not get in the way.
 
 ### Config
 
-Many things can be configured, what keys to map to what functions, timer duration, etc. in the included json configuration file.
-Find the configuration file from the system tray keyboarder menu
+A configuration file lets you define what keys map to what functions, timer duration, etc. 
+Find the configuration file from the system tray keyboarder menu, righ mouse click -> Config
 
 
 ### Running it
