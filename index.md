@@ -16,17 +16,28 @@
 </style>
 
 
-![Keyboarder](https://raw.githubusercontent.com/al3xandr3/timeinPC/master/timeinPC.png)
+![Keyboarder](https://raw.githubusercontent.com/al3xandr3/Keyboarder/master/Keyboarder.png)
 
-### Keyboarder 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zw5v4yVJjpg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Gives an extra life to your keyboard and for costumizing it
+### Keyboarder gives superpowers to your Keyboard
+
+Have you even thought to yourself that i have all these keys in the keyboard: Pause, Insert, etc.. that i don't really use and that i wish they could do something I really need and/or wish you could assign a key combination on your keyboard to start a script/program that you often use?
+
+This is what keyboarder does, it lets you configure keys to actions, it includes 3 main functions:
+1. Re-map keys, for example make F12 function as a "volume up", from a key to another key
+2. Map keys to an application, and these can be combinations of keys, for example have "Control+4" trigger a .bat or .exe that you often run, kinda like a shortcut.
+3. An included timer with background white noise, that i personally often use and that is configured to have a key associated with the start/pause
+
+It runs as tray application, so that it does not get in the way.
 
 <button class="btn"><i class="fa fa-download"></i><a href="https://github.com/al3xandr3/Keyboarder/releases/download/v1/Keyboarder.exe" style="color:white;"><b>  Download Release v1</b></a></button>
 
 
 ### Config
 
+Many things can be configured, what keys to map to what functions, timer duration, etc. in the included json configuration file.
+Find the configuration file from the system tray keyboarder menu
 
 
 ### Running it
