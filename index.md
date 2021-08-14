@@ -22,14 +22,14 @@
 
 ![Keyboarder](https://raw.githubusercontent.com/al3xandr3/Keyboarder/master/Keyboarder.png)
 
-Have you ever thought to yourself that i have all these keys in the keyboard: Pause, Insert, etc.. that i don't really use and that i wish they could do instead something else that i really need?
+Have you ever thought to yourself that there's a bunch of keys in the keyboard: Pause, Insert, etc. that dont get much use, and would be great if they could be assigned instead to something more usefull, for your day-to-day use?
 
-This is what keyboarder does, it lets you configure keys to actions. 
+This is what *keyboarder* does, it lets you configure keys to actions. 
 
 It includes 3 main functions:
-1. Re-map keys, for example make F12 function as a "volume up", from a key to another key
-2. Map keys to an application, and these can be combinations of keys, for example have "Control+4" trigger a .bat or .exe that you often run, kinda like a shortcut.
-3. An included timer with background white noise, that i personally often use and that is configured to have a key associated with the start/pause
+1. Re-map keys, for example make F12 key to be a "volume up" key (that exists dedicated in some keyboards but not in others), or a "Control+PageUp" combination to be a "Home" key, etc... These can come in handy if you changed keyboard layout and the new layout is missing something that you use often.
+2. Map keys to an application, for example have "Control+4" trigger a .bat or .exe that you often run, kinda like a shortcut.
+3. A timer with included background white noise, that i personally often use and that is configured to start with a certain key
 
 It runs as tray application, so that it does not get in the way.
 
